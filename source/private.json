@@ -1,0 +1,224 @@
+[
+    {
+        "devices": [
+            {
+                "deviceID": "0003",
+                "deviceJoinName": "Halo Smoke Alarm",
+                "inClusters": "0000, 0003, 0402, 0403, 0405, 0500, 0502",
+                "manufacturer": "HaloSmartLabs",
+                "model": "halo",
+                "profileId": "0104"
+            }
+        ],
+        "name": "Halo",
+        "path": "SmartThingsPrivate/devicetypes/hsl/halo.src/halo.groovy"
+    },
+    {
+        "devices": [
+            {
+                "deviceID": "0003",
+                "deviceJoinName": "Halo+ Smoke Alarm",
+                "inClusters": "0000, 0003, 0402, 0403, 0405, 0500, 0502",
+                "manufacturer": "HaloSmartLabs",
+                "model": "haloWX",
+                "profileId": "0104"
+            }
+        ],
+        "name": "HaloPlus",
+        "path": "SmartThingsPrivate/devicetypes/hsl/haloplus.src/haloplus.groovy"
+    },
+    {
+        "devices": [
+            {
+                "deviceJoinName": "IKEA TRÃDFRI Motion Sensor",
+                "inClusters": "0000, 0001, 0003, 0009, 0B05, 1000",
+                "manufacturer": "IKEA of Sweden",
+                "outClusters": "0003, 0004, 0006, 0019, 1000"
+            }
+        ],
+        "name": "Ikea Motion Sensor",
+        "path": "SmartThingsPrivate/devicetypes/smartthings/ikea-motion-sensor.src/ikea-motion-sensor.groovy"
+    },
+    {
+        "devices": [
+            {
+                "deviceJoinName": "Access",
+                "manufacturer": "SoluM",
+                "model": "SmartThings Access"
+            }
+        ],
+        "name": "Access",
+        "path": "SmartThingsPrivate/devicetypes/smartthings/access.src/access.groovy"
+    },
+    {
+        "devices": [
+            {
+                "deviceJoinName": "SmartThings Siren",
+                "inClusters": "0000, 0003, 0500, 0502, 0B05",
+                "manufacturer": "Sercomm Corp.",
+                "model": "SZ-SRN12N",
+                "outClusters": "0019",
+                "profileId": "0104"
+            }
+        ],
+        "name": "Zigbee Siren",
+        "path": "SmartThingsPrivate/devicetypes/smartthings/zigbee-siren.src/zigbee-siren.groovy"
+    },
+    {
+        "devices": [
+            {
+                "deviceJoinName": "Danfoss LC13 Thermostat",
+                "mfr": "0002",
+                "model": "0004",
+                "prod": "0005"
+            },
+            {
+                "deviceJoinName": "Danfoss LC13 Thermostat",
+                "mfr": "0002",
+                "model": "0003",
+                "prod": "0005"
+            }
+        ],
+        "name": "Danfoss LC13 Thermostat",
+        "path": "SmartThingsPrivate/devicetypes/smartthings/danfoss-lc13-thermostat.src/danfoss-lc13-thermostat.groovy"
+    },
+    {
+        "devices": [
+            {
+                "deviceJoinName": "IKEA TRÃDFRI Remote",
+                "inClusters": "0000, 0001, 0003, 0009, 0B05, 1000",
+                "manufacturer": "IKEA of Sweden",
+                "mnmn": "SmartThings",
+                "model": "TRADFRI remote control",
+                "outClusters": "0003, 0004, 0005, 0006, 0008, 0019, 1000",
+                "vid": "SmartThings-smartthings-IKEA_TRADFRI_Remote_Control"
+            },
+            {
+                "deviceJoinName": "IKEA TRÃDFRI On/Off switch",
+                "inClusters": "0000, 0001, 0003, 0009, 0102, 1000, FC7C",
+                "manufacturer": "IKEA of Sweden",
+                "mnmn": "SmartThings",
+                "model": "TRADFRI on/off switch",
+                "outClusters": "0003, 0004, 0006, 0008, 0019, 0102, 1000",
+                "vid": "SmartThings-smartthings-IKEA_TRADFRI_On/Off_Switch"
+            }
+        ],
+        "name": "Ikea Button",
+        "path": "SmartThingsPrivate/devicetypes/smartthings/ikea-button.src/ikea-button.groovy"
+    },
+    {
+        "devices": [
+            {
+                "deviceJoinName": "Leviton RC Series Thermostat",
+                "endpointId": "10",
+                "inClusters": "0000,0003,0201,0202,0204",
+                "manufacturer": "HAI",
+                "model": "65A01-1",
+                "outClusters": "000A, 0006",
+                "profileId": "0104"
+            }
+        ],
+        "name": "Leviton RC Series Thermostat",
+        "path": "SmartThingsPrivate/devicetypes/leviton/leviton-rc-series-thermostat.src/leviton-rc-series-thermostat.groovy"
+    },
+    {
+        "devices": [
+            {
+                "deviceJoinName": "ADT Motion Sensor",
+                "manufacturer": "1",
+                "productId": "2313",
+                "productType": "NOVA_DEVICE_TYPE_PIR",
+                "protocol": "nova"
+            },
+            {
+                "deviceJoinName": "ADT Motion Sensor",
+                "manufacturer": "1",
+                "productId": "9",
+                "productType": "NOVA_DEVICE_TYPE_PIR",
+                "protocol": "nova"
+            }
+        ],
+        "name": "Nortek PIR Sensor",
+        "path": "SmartThingsPrivate/devicetypes/nortek/nortek-pir-sensor.src/nortek-pir-sensor.groovy"
+    },
+    {
+        "devices": [
+            {
+                "deviceJoinName": "ADT Carbon Monoxide Sensor",
+                "manufacturer": "1",
+                "productId": "6425",
+                "productType": "NOVA_DEVICE_TYPE_CO",
+                "protocol": "nova"
+            },
+            {
+                "deviceJoinName": "ADT Carbon Monoxide Sensor",
+                "manufacturer": "1",
+                "productId": "25",
+                "productType": "NOVA_DEVICE_TYPE_CO",
+                "protocol": "nova"
+            }
+        ],
+        "name": "Nortek CO Sensor",
+        "path": "SmartThingsPrivate/devicetypes/nortek/nortek-co-sensor.src/nortek-co-sensor.groovy"
+    },
+    {
+        "devices": [
+            {
+                "deviceJoinName": "ADT Door/Window Sensor",
+                "manufacturer": "1",
+                "productId": "1",
+                "productType": "NOVA_DEVICE_TYPE_DOOR_WINDOW",
+                "protocol": "nova"
+            }
+        ],
+        "name": "Nortek Door Window",
+        "path": "SmartThingsPrivate/devicetypes/nortek/nortek-door-window.src/nortek-door-window.groovy"
+    },
+    {
+        "devices": [
+            {
+                "deviceJoinName": "ADT Keyfob",
+                "manufacturer": "1",
+                "productId": "33",
+                "productType": "NOVA_DEVICE_TYPE_KEYFOB",
+                "protocol": "nova"
+            }
+        ],
+        "name": "Nortek Keyfob",
+        "path": "SmartThingsPrivate/devicetypes/nortek/nortek-keyfob.src/nortek-keyfob.groovy"
+    },
+    {
+        "devices": [
+            {
+                "deviceJoinName": "ADT Water Leak Detector",
+                "inClusters": "0000, 0001, 0002, 0003, 0020, 0402, 0500, 0B05, FC01, FC02",
+                "manufacturer": "Nortek Security and Control",
+                "model": "F-ADT-WTR-1",
+                "outClusters": "0003, 0019",
+                "profileId": "0104"
+            }
+        ],
+        "name": "Nortek Water Leak Sensor",
+        "path": "SmartThingsPrivate/devicetypes/nortek/nortek-water-leak-sensor.src/nortek-water-leak-sensor.groovy"
+    },
+    {
+        "devices": [
+            {
+                "deviceJoinName": "ADT Smoke Sensor",
+                "manufacturer": "1",
+                "productId": "4369",
+                "productType": "NOVA_DEVICE_TYPE_SMOKE",
+                "protocol": "nova"
+            },
+            {
+                "deviceJoinName": "ADT Smoke Sensor",
+                "manufacturer": "1",
+                "productId": "17",
+                "productType": "NOVA_DEVICE_TYPE_SMOKE",
+                "protocol": "nova"
+            }
+        ],
+        "name": "Nortek Smoke Sensor",
+        "path": "SmartThingsPrivate/devicetypes/nortek/nortek-smoke-sensor.src/nortek-smoke-sensor.groovy"
+    }
+]
