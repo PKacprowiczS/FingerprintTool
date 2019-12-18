@@ -1,20 +1,0 @@
-name;endpointId;manufacturer;productId;mfr;outClusters;prod;inClusters;mnmn;profileId;protocol;productType;vid;model;deviceID;deviceJoinName;path
-Halo;;HaloSmartLabs;;;;;0000, 0003, 0402, 0403, 0405, 0500, 0502;;0104;;;;halo;0003;Halo Smoke Alarm;SmartThingsPrivate/devicetypes/hsl/halo.src/halo.groovy
-HaloPlus;;HaloSmartLabs;;;;;0000, 0003, 0402, 0403, 0405, 0500, 0502;;0104;;;;haloWX;0003;Halo+ Smoke Alarm;SmartThingsPrivate/devicetypes/hsl/haloplus.src/haloplus.groovy
-Ikea Motion Sensor;;IKEA of Sweden;;;0003, 0004, 0006, 0019, 1000;;0000, 0001, 0003, 0009, 0B05, 1000;;;;;;;;IKEA TRÃDFRI Motion Sensor;SmartThingsPrivate/devicetypes/smartthings/ikea-motion-sensor.src/ikea-motion-sensor.groovy
-Access;;SoluM;;;;;;;;;;;SmartThings Access;;Access;SmartThingsPrivate/devicetypes/smartthings/access.src/access.groovy
-Zigbee Siren;;Sercomm Corp.;;;0019;;0000, 0003, 0500, 0502, 0B05;;0104;;;;SZ-SRN12N;;SmartThings Siren;SmartThingsPrivate/devicetypes/smartthings/zigbee-siren.src/zigbee-siren.groovy
-Danfoss LC13 Thermostat;;;;0002;;0005;;;;;;;0004;;Danfoss LC13 Thermostat;SmartThingsPrivate/devicetypes/smartthings/danfoss-lc13-thermostat.src/danfoss-lc13-thermostat.groovy
-Danfoss LC13 Thermostat;;;;0002;;0005;;;;;;;0003;;Danfoss LC13 Thermostat;SmartThingsPrivate/devicetypes/smartthings/danfoss-lc13-thermostat.src/danfoss-lc13-thermostat.groovy
-Ikea Button;;IKEA of Sweden;;;0003, 0004, 0005, 0006, 0008, 0019, 1000;;0000, 0001, 0003, 0009, 0B05, 1000;SmartThings;;;;SmartThings-smartthings-IKEA_TRADFRI_Remote_Control;TRADFRI remote control;;IKEA TRÃDFRI Remote;SmartThingsPrivate/devicetypes/smartthings/ikea-button.src/ikea-button.groovy
-Ikea Button;;IKEA of Sweden;;;0003, 0004, 0006, 0008, 0019, 0102, 1000;;0000, 0001, 0003, 0009, 0102, 1000, FC7C;SmartThings;;;;SmartThings-smartthings-IKEA_TRADFRI_On/Off_Switch;TRADFRI on/off switch;;IKEA TRÃDFRI On/Off switch;SmartThingsPrivate/devicetypes/smartthings/ikea-button.src/ikea-button.groovy
-Leviton RC Series Thermostat;10;HAI;;;000A, 0006;;0000,0003,0201,0202,0204;;0104;;;;65A01-1;;Leviton RC Series Thermostat;SmartThingsPrivate/devicetypes/leviton/leviton-rc-series-thermostat.src/leviton-rc-series-thermostat.groovy
-Nortek PIR Sensor;;1;2313;;;;;;;nova;NOVA_DEVICE_TYPE_PIR;;;;ADT Motion Sensor;SmartThingsPrivate/devicetypes/nortek/nortek-pir-sensor.src/nortek-pir-sensor.groovy
-Nortek PIR Sensor;;1;9;;;;;;;nova;NOVA_DEVICE_TYPE_PIR;;;;ADT Motion Sensor;SmartThingsPrivate/devicetypes/nortek/nortek-pir-sensor.src/nortek-pir-sensor.groovy
-Nortek CO Sensor;;1;6425;;;;;;;nova;NOVA_DEVICE_TYPE_CO;;;;ADT Carbon Monoxide Sensor;SmartThingsPrivate/devicetypes/nortek/nortek-co-sensor.src/nortek-co-sensor.groovy
-Nortek CO Sensor;;1;25;;;;;;;nova;NOVA_DEVICE_TYPE_CO;;;;ADT Carbon Monoxide Sensor;SmartThingsPrivate/devicetypes/nortek/nortek-co-sensor.src/nortek-co-sensor.groovy
-Nortek Door Window;;1;1;;;;;;;nova;NOVA_DEVICE_TYPE_DOOR_WINDOW;;;;ADT Door/Window Sensor;SmartThingsPrivate/devicetypes/nortek/nortek-door-window.src/nortek-door-window.groovy
-Nortek Keyfob;;1;33;;;;;;;nova;NOVA_DEVICE_TYPE_KEYFOB;;;;ADT Keyfob;SmartThingsPrivate/devicetypes/nortek/nortek-keyfob.src/nortek-keyfob.groovy
-Nortek Water Leak Sensor;;Nortek Security and Control;;;0003, 0019;;0000, 0001, 0002, 0003, 0020, 0402, 0500, 0B05, FC01, FC02;;0104;;;;F-ADT-WTR-1;;ADT Water Leak Detector;SmartThingsPrivate/devicetypes/nortek/nortek-water-leak-sensor.src/nortek-water-leak-sensor.groovy
-Nortek Smoke Sensor;;1;4369;;;;;;;nova;NOVA_DEVICE_TYPE_SMOKE;;;;ADT Smoke Sensor;SmartThingsPrivate/devicetypes/nortek/nortek-smoke-sensor.src/nortek-smoke-sensor.groovy
-Nortek Smoke Sensor;;1;17;;;;;;;nova;NOVA_DEVICE_TYPE_SMOKE;;;;ADT Smoke Sensor;SmartThingsPrivate/devicetypes/nortek/nortek-smoke-sensor.src/nortek-smoke-sensor.groovy
